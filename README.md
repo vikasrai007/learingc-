@@ -1,12 +1,9 @@
-# learingc-
-Learing C# as a beginner 
+//# learingc-
+// Learing C# as a beginner 
+
+
 
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace first_project
 {
     internal class Program
